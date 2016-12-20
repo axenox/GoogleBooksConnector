@@ -1,0 +1,15 @@
+{
+    "name": "axenox/GoogleBooksConnector",
+    "require": {
+        "exface/core": "~0.1"
+    },
+    "extra": {
+        "app_uid": "0x37000000000000000000000000000000",
+        "app": {
+            "app_uid": "0x37000000000000000000000000000000",
+            "app_alias": "axenox.GoogleBooksConnector",
+            "model_md5": "a7764aadcd8527a309d9712a83d8e4ac",
+            "model_timestamp": "2016-12-20 10:02:18"
+        }
+    }
+}
