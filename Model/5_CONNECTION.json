@@ -86,6 +86,22 @@
             "attribute_alias": "FILTER_CONTEXT"
         }
     ],
+    "rows": [
+        {
+            "CREATED_ON": "0000-00-00 00:00:00",
+            "MODIFIED_ON": "2016-12-20 10:03:57",
+            "CREATED_BY_USER": "",
+            "MODIFIED_BY_USER": "0x31000000000000000000000000000000",
+            "UID": "0x31310000000000000000000000000000",
+            "APP": "0x37000000000000000000000000000000",
+            "LABEL": "Google Books",
+            "CONNECTOR": "exface\/UrlDataConnector\/DataConnectors\/HttpConnector.php",
+            "CONFIG": "{\"URL\":\"https:\/\/www.googleapis.com\/books\/v1\/\"}",
+            "READONLY": "0",
+            "ALIAS": "GOOGLE_BOOKS",
+            "FILTER_CONTEXT": ""
+        }
+    ],
     "totals_rows": [],
     "filters": {
         "operator": "AND",
