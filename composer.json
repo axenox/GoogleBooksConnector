@@ -1,5 +1,5 @@
 {
-    "name": "axenox/googlebooksconnector",
+    "name": "axenox/GoogleBooksConnector",
     "require": {
         "exface/core": "~0.1"
     },
