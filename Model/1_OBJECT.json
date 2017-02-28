@@ -109,18 +109,18 @@
     ],
     "rows": [
         {
-            "CREATED_ON": "0000-00-00 00:00:00",
-            "MODIFIED_ON": "0000-00-00 00:00:00",
+            "CREATED_ON": "2011-01-01 00:00:00",
+            "MODIFIED_ON": "2011-01-01 00:00:00",
             "CREATED_BY_USER": "",
             "MODIFIED_BY_USER": "",
             "UID": "0x38350000000000000000000000000000",
             "DATA_SOURCE": "0x38000000000000000000000000000000",
-            "long_description": null,
+            "long_description": "",
             "APP": "0x37000000000000000000000000000000",
             "SHORT_DESCRIPTION": "",
             "PARENT_OBJECT": "",
             "DATA_ADDRESS_PROPS": "{\"response_data_path\":\"items\",\"response_total_count_path\":\"totalItems\",\"force_filtering\":\"1\",\"request_offset_parameter\":\"startIndex\",\"request_limit_parameter\":\"maxResults\"}",
-            "DEFAULT_EDITOR_UXON": null,
+            "DEFAULT_EDITOR_UXON": "",
             "LABEL": "Buch",
             "ALIAS": "BOOK",
             "DATA_ADDRESS": "volumes"
