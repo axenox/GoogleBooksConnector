@@ -272,7 +272,7 @@
             "SORTERDIR": "",
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
-            "DATA_ADDRESS_PROPS": "{\"filter_query_parameter\":\"q\",\"filter_query_prefix\":\"intitle:\"}",
+            "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\",\"filter_remote_prefix\":\"intitle:\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
             "DEFAULT_EDITOR_UXON": ""
@@ -304,7 +304,7 @@
             "SORTERDIR": "",
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
-            "DATA_ADDRESS_PROPS": "{\"filter_query_parameter\":\"q\"}",
+            "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
             "DEFAULT_EDITOR_UXON": ""
@@ -336,7 +336,7 @@
             "SORTERDIR": "",
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
-            "DATA_ADDRESS_PROPS": "{\"filter_query_parameter\":\"q\",\"filter_query_prefix\":\"inauthor:\"}",
+            "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\",\"filter_remote_prefix\":\"inauthor:\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
             "DEFAULT_EDITOR_UXON": ""
@@ -368,7 +368,7 @@
             "SORTERDIR": "",
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
-            "DATA_ADDRESS_PROPS": "{\"filter_query_parameter\":\"q\",\"filter_query_prefix\":\"inpublisher:\"}",
+            "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\",\"filter_remote_prefix\":\"inpublisher:\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
             "DEFAULT_EDITOR_UXON": ""
@@ -400,7 +400,7 @@
             "SORTERDIR": "",
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
-            "DATA_ADDRESS_PROPS": "{\"filter_query_parameter\":\"q\"}",
+            "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
             "DEFAULT_EDITOR_UXON": ""
@@ -432,7 +432,7 @@
             "SORTERDIR": "",
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
-            "DATA_ADDRESS_PROPS": "{\"filter_query_parameter\":\"q\"}",
+            "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
             "DEFAULT_EDITOR_UXON": ""
@@ -464,7 +464,7 @@
             "SORTERDIR": "",
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
-            "DATA_ADDRESS_PROPS": "{\"filter_query_parameter\":\"langRestrict\"}",
+            "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"langRestrict\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
             "DEFAULT_EDITOR_UXON": ""
@@ -496,7 +496,7 @@
             "SORTERDIR": "",
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
-            "DATA_ADDRESS_PROPS": "{\"filter_query_parameter\":\"q\",\"filter_query_prefix\":\"isbn:\"}",
+            "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\",\"filter_remote_prefix\":\"isbn:\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
             "DEFAULT_EDITOR_UXON": ""
@@ -528,7 +528,7 @@
             "SORTERDIR": "",
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
-            "DATA_ADDRESS_PROPS": "{\"filter_query_parameter\":\"\",\"filter_query_prefix\":\"\"}",
+            "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"\",\"filter_remote_prefix\":\"\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
             "DEFAULT_EDITOR_UXON": "{}"
@@ -560,7 +560,7 @@
             "SORTERDIR": "",
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
-            "DATA_ADDRESS_PROPS": "{\"filter_query_parameter\":\"q\",\"filter_query_prefix\":\"\"}",
+            "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\",\"filter_remote_prefix\":\"\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
             "DEFAULT_EDITOR_UXON": ""
