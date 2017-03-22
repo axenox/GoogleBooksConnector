@@ -214,8 +214,8 @@
     ],
     "rows": [
         {
-            "CREATED_ON": "0000-00-00 00:00:00",
-            "MODIFIED_ON": "0000-00-00 00:00:00",
+            "CREATED_ON": "2007-01-01 00:00:00",
+            "MODIFIED_ON": "2007-01-01 00:00:00",
             "CREATED_BY_USER": "",
             "MODIFIED_BY_USER": "",
             "UID": "0x32393100000000000000000000000000",
@@ -246,8 +246,8 @@
             "DEFAULT_EDITOR_UXON": ""
         },
         {
-            "CREATED_ON": "0000-00-00 00:00:00",
-            "MODIFIED_ON": "0000-00-00 00:00:00",
+            "CREATED_ON": "2007-01-01 00:00:00",
+            "MODIFIED_ON": "2007-01-01 00:00:00",
             "CREATED_BY_USER": "",
             "MODIFIED_BY_USER": "",
             "UID": "0x32393200000000000000000000000000",
@@ -278,8 +278,8 @@
             "DEFAULT_EDITOR_UXON": ""
         },
         {
-            "CREATED_ON": "0000-00-00 00:00:00",
-            "MODIFIED_ON": "0000-00-00 00:00:00",
+            "CREATED_ON": "2007-01-01 00:00:00",
+            "MODIFIED_ON": "2007-01-01 00:00:00",
             "CREATED_BY_USER": "",
             "MODIFIED_BY_USER": "",
             "UID": "0x32393300000000000000000000000000",
@@ -310,8 +310,8 @@
             "DEFAULT_EDITOR_UXON": ""
         },
         {
-            "CREATED_ON": "0000-00-00 00:00:00",
-            "MODIFIED_ON": "0000-00-00 00:00:00",
+            "CREATED_ON": "2007-01-01 00:00:00",
+            "MODIFIED_ON": "2007-01-01 00:00:00",
             "CREATED_BY_USER": "",
             "MODIFIED_BY_USER": "",
             "UID": "0x32393400000000000000000000000000",
@@ -342,8 +342,8 @@
             "DEFAULT_EDITOR_UXON": ""
         },
         {
-            "CREATED_ON": "0000-00-00 00:00:00",
-            "MODIFIED_ON": "0000-00-00 00:00:00",
+            "CREATED_ON": "2007-01-01 00:00:00",
+            "MODIFIED_ON": "2007-01-01 00:00:00",
             "CREATED_BY_USER": "",
             "MODIFIED_BY_USER": "",
             "UID": "0x32393500000000000000000000000000",
@@ -374,8 +374,8 @@
             "DEFAULT_EDITOR_UXON": ""
         },
         {
-            "CREATED_ON": "0000-00-00 00:00:00",
-            "MODIFIED_ON": "0000-00-00 00:00:00",
+            "CREATED_ON": "2007-01-01 00:00:00",
+            "MODIFIED_ON": "2007-01-01 00:00:00",
             "CREATED_BY_USER": "",
             "MODIFIED_BY_USER": "",
             "UID": "0x32393600000000000000000000000000",
@@ -406,8 +406,8 @@
             "DEFAULT_EDITOR_UXON": ""
         },
         {
-            "CREATED_ON": "0000-00-00 00:00:00",
-            "MODIFIED_ON": "0000-00-00 00:00:00",
+            "CREATED_ON": "2007-01-01 00:00:00",
+            "MODIFIED_ON": "2007-01-01 00:00:00",
             "CREATED_BY_USER": "",
             "MODIFIED_BY_USER": "",
             "UID": "0x32393700000000000000000000000000",
@@ -438,8 +438,8 @@
             "DEFAULT_EDITOR_UXON": ""
         },
         {
-            "CREATED_ON": "0000-00-00 00:00:00",
-            "MODIFIED_ON": "0000-00-00 00:00:00",
+            "CREATED_ON": "2007-01-01 00:00:00",
+            "MODIFIED_ON": "2007-01-01 00:00:00",
             "CREATED_BY_USER": "",
             "MODIFIED_BY_USER": "",
             "UID": "0x32393800000000000000000000000000",
@@ -470,8 +470,8 @@
             "DEFAULT_EDITOR_UXON": ""
         },
         {
-            "CREATED_ON": "0000-00-00 00:00:00",
-            "MODIFIED_ON": "0000-00-00 00:00:00",
+            "CREATED_ON": "2007-01-01 00:00:00",
+            "MODIFIED_ON": "2007-01-01 00:00:00",
             "CREATED_BY_USER": "",
             "MODIFIED_BY_USER": "",
             "UID": "0x32393900000000000000000000000000",
@@ -502,7 +502,7 @@
             "DEFAULT_EDITOR_UXON": ""
         },
         {
-            "CREATED_ON": "0000-00-00 00:00:00",
+            "CREATED_ON": "2007-01-01 00:00:00",
             "MODIFIED_ON": "2016-03-31 15:19:12",
             "CREATED_BY_USER": "",
             "MODIFIED_BY_USER": "0x36000000000000000000000000000000",
@@ -534,8 +534,8 @@
             "DEFAULT_EDITOR_UXON": "{}"
         },
         {
-            "CREATED_ON": "0000-00-00 00:00:00",
-            "MODIFIED_ON": "0000-00-00 00:00:00",
+            "CREATED_ON": "2007-01-01 00:00:00",
+            "MODIFIED_ON": "2007-01-01 00:00:00",
             "CREATED_BY_USER": "",
             "MODIFIED_BY_USER": "",
             "UID": "0x33303300000000000000000000000000",
