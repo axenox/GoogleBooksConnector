@@ -11,5 +11,13 @@
             "model_md5": "39c3117c0cf9e5633d633f30b00d723f",
             "model_timestamp": "2017-04-18 16:52:48"
         }
+    },
+    "autoload": {
+        "psr-4": { "axenox\\GoogleBooksConnector\\": "" },
+        "exclude-from-classmap": [
+            "/Config/",
+            "/Translations/",
+            "/Model/"
+        ]
     }
 }
