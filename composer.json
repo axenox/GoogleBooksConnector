@@ -13,7 +13,9 @@
         }
     },
     "autoload": {
-        "psr-4": { "axenox\\GoogleBooksConnector\\": "" },
+        "psr-4": {
+            "axenox\\GoogleBooksConnector\\": ""
+        },
         "exclude-from-classmap": [
             "/Config/",
             "/Translations/",
