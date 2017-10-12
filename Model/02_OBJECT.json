@@ -37,6 +37,20 @@
             "attribute_alias": "UID"
         },
         {
+            "expression": "READABLE_FLAG",
+            "name": "READABLE_FLAG",
+            "hidden": false,
+            "data_type": "exface.Core.Boolean",
+            "attribute_alias": "READABLE_FLAG"
+        },
+        {
+            "expression": "WRITABLE_FLAG",
+            "name": "WRITABLE_FLAG",
+            "hidden": false,
+            "data_type": "exface.Core.Boolean",
+            "attribute_alias": "WRITABLE_FLAG"
+        },
+        {
             "expression": "DATA_SOURCE",
             "name": "DATA_SOURCE",
             "hidden": false,
@@ -114,6 +128,8 @@
             "CREATED_BY_USER": "",
             "MODIFIED_BY_USER": "",
             "UID": "0x38350000000000000000000000000000",
+            "READABLE_FLAG": "1",
+            "WRITABLE_FLAG": "1",
             "DATA_SOURCE": "0x38000000000000000000000000000000",
             "long_description": "",
             "APP": "0x37000000000000000000000000000000",
