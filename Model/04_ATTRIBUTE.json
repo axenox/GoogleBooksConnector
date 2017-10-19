@@ -54,6 +54,10 @@
             "attribute_alias": "SYSTEMFLAG"
         },
         {
+            "name": "DEFAULT_EDITOR_UXON",
+            "attribute_alias": "DEFAULT_EDITOR_UXON"
+        },
+        {
             "name": "LABEL",
             "attribute_alias": "LABEL"
         },
@@ -134,8 +138,8 @@
             "attribute_alias": "FIXED_VALUE"
         },
         {
-            "name": "DEFAULT_EDITOR_UXON",
-            "attribute_alias": "DEFAULT_EDITOR_UXON"
+            "name": "CUSTOM_DATA_TYPE",
+            "attribute_alias": "CUSTOM_DATA_TYPE"
         }
     ],
     "rows": [
@@ -153,6 +157,7 @@
             "READABLEFLAG": "1",
             "WRITABLEFLAG": "1",
             "SYSTEMFLAG": "0",
+            "DEFAULT_EDITOR_UXON": null,
             "LABEL": "ID",
             "ALIAS": "ID",
             "DATATYPE": "0x30000000000000000000000000000000",
@@ -170,10 +175,10 @@
             "SORTERDIR": "",
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
-            "DATA_ADDRESS_PROPS": "{}",
+            "DATA_ADDRESS_PROPS": "",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
-            "DEFAULT_EDITOR_UXON": ""
+            "CUSTOM_DATA_TYPE": null
         },
         {
             "CREATED_ON": "2007-01-01 00:00:00",
@@ -189,6 +194,7 @@
             "READABLEFLAG": "1",
             "WRITABLEFLAG": "1",
             "SYSTEMFLAG": "0",
+            "DEFAULT_EDITOR_UXON": null,
             "LABEL": "Titel",
             "ALIAS": "TITLE",
             "DATATYPE": "0x30000000000000000000000000000000",
@@ -209,7 +215,7 @@
             "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\",\"filter_remote_prefix\":\"intitle:\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
-            "DEFAULT_EDITOR_UXON": ""
+            "CUSTOM_DATA_TYPE": null
         },
         {
             "CREATED_ON": "2007-01-01 00:00:00",
@@ -225,6 +231,7 @@
             "READABLEFLAG": "1",
             "WRITABLEFLAG": "1",
             "SYSTEMFLAG": "0",
+            "DEFAULT_EDITOR_UXON": null,
             "LABEL": "Untertitel",
             "ALIAS": "SUBTITLE",
             "DATATYPE": "0x30000000000000000000000000000000",
@@ -245,7 +252,7 @@
             "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
-            "DEFAULT_EDITOR_UXON": ""
+            "CUSTOM_DATA_TYPE": null
         },
         {
             "CREATED_ON": "2007-01-01 00:00:00",
@@ -261,6 +268,7 @@
             "READABLEFLAG": "1",
             "WRITABLEFLAG": "1",
             "SYSTEMFLAG": "0",
+            "DEFAULT_EDITOR_UXON": null,
             "LABEL": "Autoren",
             "ALIAS": "AUTHORS",
             "DATATYPE": "0x30000000000000000000000000000000",
@@ -281,7 +289,7 @@
             "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\",\"filter_remote_prefix\":\"inauthor:\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
-            "DEFAULT_EDITOR_UXON": ""
+            "CUSTOM_DATA_TYPE": null
         },
         {
             "CREATED_ON": "2007-01-01 00:00:00",
@@ -297,6 +305,7 @@
             "READABLEFLAG": "1",
             "WRITABLEFLAG": "1",
             "SYSTEMFLAG": "0",
+            "DEFAULT_EDITOR_UXON": null,
             "LABEL": "Verlag",
             "ALIAS": "PUBLISHER",
             "DATATYPE": "0x30000000000000000000000000000000",
@@ -317,7 +326,7 @@
             "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\",\"filter_remote_prefix\":\"inpublisher:\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
-            "DEFAULT_EDITOR_UXON": ""
+            "CUSTOM_DATA_TYPE": null
         },
         {
             "CREATED_ON": "2007-01-01 00:00:00",
@@ -333,6 +342,7 @@
             "READABLEFLAG": "1",
             "WRITABLEFLAG": "1",
             "SYSTEMFLAG": "0",
+            "DEFAULT_EDITOR_UXON": null,
             "LABEL": "Erschienen",
             "ALIAS": "PUB_DATE",
             "DATATYPE": "0x32000000000000000000000000000000",
@@ -353,7 +363,7 @@
             "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
-            "DEFAULT_EDITOR_UXON": ""
+            "CUSTOM_DATA_TYPE": null
         },
         {
             "CREATED_ON": "2007-01-01 00:00:00",
@@ -369,6 +379,7 @@
             "READABLEFLAG": "1",
             "WRITABLEFLAG": "1",
             "SYSTEMFLAG": "0",
+            "DEFAULT_EDITOR_UXON": null,
             "LABEL": "Beschreibung",
             "ALIAS": "DESCRIPTION",
             "DATATYPE": "0x31310000000000000000000000000000",
@@ -389,7 +400,7 @@
             "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
-            "DEFAULT_EDITOR_UXON": ""
+            "CUSTOM_DATA_TYPE": null
         },
         {
             "CREATED_ON": "2007-01-01 00:00:00",
@@ -405,6 +416,7 @@
             "READABLEFLAG": "1",
             "WRITABLEFLAG": "1",
             "SYSTEMFLAG": "0",
+            "DEFAULT_EDITOR_UXON": null,
             "LABEL": "Sprache",
             "ALIAS": "LANGUAGE",
             "DATATYPE": "0x30000000000000000000000000000000",
@@ -425,7 +437,7 @@
             "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"langRestrict\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
-            "DEFAULT_EDITOR_UXON": ""
+            "CUSTOM_DATA_TYPE": null
         },
         {
             "CREATED_ON": "2007-01-01 00:00:00",
@@ -441,6 +453,7 @@
             "READABLEFLAG": "1",
             "WRITABLEFLAG": "1",
             "SYSTEMFLAG": "0",
+            "DEFAULT_EDITOR_UXON": null,
             "LABEL": "ISBN",
             "ALIAS": "ISBN",
             "DATATYPE": "0x30000000000000000000000000000000",
@@ -461,7 +474,7 @@
             "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\",\"filter_remote_prefix\":\"isbn:\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
-            "DEFAULT_EDITOR_UXON": ""
+            "CUSTOM_DATA_TYPE": null
         },
         {
             "CREATED_ON": "2007-01-01 00:00:00",
@@ -477,6 +490,7 @@
             "READABLEFLAG": "1",
             "WRITABLEFLAG": "1",
             "SYSTEMFLAG": "0",
+            "DEFAULT_EDITOR_UXON": null,
             "LABEL": "Cover",
             "ALIAS": "COVER",
             "DATATYPE": "0x31350000000000000000000000000000",
@@ -497,7 +511,7 @@
             "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"\",\"filter_remote_prefix\":\"\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
-            "DEFAULT_EDITOR_UXON": "{}"
+            "CUSTOM_DATA_TYPE": null
         },
         {
             "CREATED_ON": "2007-01-01 00:00:00",
@@ -513,6 +527,7 @@
             "READABLEFLAG": "1",
             "WRITABLEFLAG": "1",
             "SYSTEMFLAG": "0",
+            "DEFAULT_EDITOR_UXON": null,
             "LABEL": "Buch",
             "ALIAS": "LABEL",
             "DATATYPE": "0x30000000000000000000000000000000",
@@ -533,7 +548,7 @@
             "DATA_ADDRESS_PROPS": "{\"filter_remote_url_param\":\"q\",\"filter_remote_prefix\":\"\"}",
             "DEFAULT_VALUE": "",
             "FIXED_VALUE": "",
-            "DEFAULT_EDITOR_UXON": ""
+            "CUSTOM_DATA_TYPE": null
         }
     ],
     "totals_rows": [],
