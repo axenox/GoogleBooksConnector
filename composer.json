@@ -1,7 +1,7 @@
 {
     "name": "axenox/GoogleBooksConnector",
     "require": {
-        "exface/core": "^0.1"
+        "exface/core": "~0.1"
     },
     "extra": {
         "app_uid": "0x37000000000000000000000000000000",
