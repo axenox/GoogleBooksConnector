@@ -60,15 +60,16 @@
             "APP": "0x37000000000000000000000000000000",
             "LABEL": "Google Books",
             "CONNECTOR": "exface\/UrlDataConnector\/DataConnectors\/HttpConnector.php",
-            "CONFIG": "{\"URL\":\"https:\/\/www.googleapis.com\/books\/v1\/\"}",
+            "CONFIG": "{\"URL\":\"https:\\\/\\\/www.googleapis.com\\\/books\\\/v1\\\/\"}",
             "READONLY": "0",
             "ALIAS": "GOOGLE_BOOKS",
-            "FILTER_CONTEXT": ""
+            "FILTER_CONTEXT": null
         }
     ],
     "totals_rows": [],
     "filters": {
         "operator": "AND",
+        "base_object_alias": "exface.Core.CONNECTION",
         "conditions": [
             {
                 "expression": "APP",
