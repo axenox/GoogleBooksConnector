@@ -1,25 +1,25 @@
 {
-	"name" : "axenox/googlebooksconnector",
-	"require" : {
-		"exface/core" : "~0.1||^1.0"
-	},
-	"extra" : {
-		"app_uid" : "0x37000000000000000000000000000000",
-		"app" : {
-			"app_uid" : "0x37000000000000000000000000000000",
-			"app_alias" : "axenox.GoogleBooksConnector",
-			"model_md5" : "2c7a4a1e4274c0faa24de608c848bd44",
-			"model_timestamp" : "2017-04-18 16:52:48"
-		}
-	},
-	"autoload" : {
-		"psr-4" : {
-			"axenox\\GoogleBooksConnector\\" : ""
-		},
-		"exclude-from-classmap" : [
-			"/Config/",
-			"/Translations/",
-			"/Model/"
-		]
-	}
+    "name": "axenox/googlebooksconnector",
+    "require": {
+        "exface/core": "~0.1||^1.0"
+    },
+    "extra": {
+        "app_uid": "0x37000000000000000000000000000000",
+        "app": {
+            "app_uid": "0x37000000000000000000000000000000",
+            "app_alias": "axenox.GoogleBooksConnector",
+            "model_md5": "7ed4d49f2d3cc282564731334c77b9ef",
+            "model_timestamp": "2020-10-15 10:41:36"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "axenox\\GoogleBooksConnector\\": ""
+        },
+        "exclude-from-classmap": [
+            "/Config/",
+            "/Translations/",
+            "/Model/"
+        ]
+    }
 }

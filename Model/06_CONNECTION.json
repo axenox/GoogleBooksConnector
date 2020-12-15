@@ -60,7 +60,9 @@
             "APP": "0x37000000000000000000000000000000",
             "LABEL": "Google Books",
             "CONNECTOR": "exface\/UrlDataConnector\/DataConnectors\/HttpConnector.php",
-            "CONFIG": "{\"URL\":\"https:\\\/\\\/www.googleapis.com\\\/books\\\/v1\\\/\"}",
+            "CONFIG": {
+                "URL": "https:\/\/www.googleapis.com\/books\/v1\/"
+            },
             "READONLY": "0",
             "ALIAS": "GOOGLE_BOOKS",
             "FILTER_CONTEXT": null
